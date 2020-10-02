@@ -1,0 +1,3 @@
+[submodule "mlops-backend"]
+	path = mlops-backend
+	url = git@github.com:grokkerzz/mlops-backend.git
